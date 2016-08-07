@@ -11,7 +11,7 @@ An Integer list is populated with 10 Millions or Random integer from MIN to MAX 
 
 The same list is also use to look for the MAX with the old school get last from the sorted list JDK7 way, max() for JDK8 stream and parallelStream fashions
 
-# Example of results
+# Results (in Millis) with Intel(R) Core(TM) i3-3217U CPU @ 1.80GHz, 2 Cores (4vCPU), 8 Gb RAM on Ubuntu 14.04.4 LTS running Oracle JDK 1.8.0_91
 
 ******** sort OLD School JDK 1.7 *******
 duration :13920
