@@ -15,20 +15,27 @@ The same list is also use to look for the MAX with the old school get last from 
 
 ******** sort OLD School JDK 1.7 *******
 duration :13920
+
 ******** sort STREAM NOT collected JDK 1.8 *******
 duration :5
+
 ******** sort STREAM collected JDK 1.8 *******
 duration :534
+
 ******** sort PARALLEL STREAM NOT collected JDK 1.8 *******
 duration :0
+
 ******** sort PARALLEL STREAM collected JDK 1.8 *******
 duration :1186
+
 ******** MAX OLD School JDK 1.7 *******
 duration : already computed
 2147483425
+
 ******** MAX PARALLEL STREAM collected JDK 1.8 *******
 duration :335
 2147483425
+
 ******** MAX STREAM collected JDK 1.8 *******
 duration :534
 2147483425
